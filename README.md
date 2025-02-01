@@ -4,7 +4,7 @@
 
 Job Listing Dashboard is a modern, responsive web application built with Next.js and React. It provides a platform for job seekers to browse and search for job listings, and for employers to manage job postings. The application features a sleek user interface with a dark/light mode toggle, authentication, and role-based access control. A project for IBCScorp for the fulfillment for the role of software developer.
 
-- **Deployment Link**: [click here](https://github.com/)
+- **Deployment Link**: [click here](https://job-listing-project-sigma.vercel.app/)
 
 ## Features
 
