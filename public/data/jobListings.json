@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1738355172193,
+    "title": "New Job",
+    "company": "Company Name",
+    "location": "Location",
+    "datePosted": "2025-01-31",
+    "salary": "",
+    "description": "",
+    "requirements": [],
+    "type": "Full-time",
+    "experience": "Entry-level"
+  },
+  {
+    "id": 1,
+    "title": "Senior Frontend Developer",
+    "company": "TechCorp",
+    "location": "New York, NY (Hybrid)",
+    "datePosted": "2024-01-30",
+    "salary": "120K - 160K",
+    "description": "We're seeking a Senior Frontend Developer to join our growing team. You'll be responsible for building and maintaining our web applications using React and Next.js.",
+    "requirements": [
+      "React",
+      "TypeScript",
+      "5+ years experience",
+      "Next.js",
+      "REST APIs",
+      "Team leadership"
+    ],
+    "type": "Full-time",
+    "experience": "Senior"
+  },
+  {
+    "id": 2,
+    "title": "Product Manager",
+    "company": "InnovateCo",
+    "location": "San Francisco, CA (Remote)",
+    "datePosted": "2024-01-29",
+    "salary": "130K - 180K",
+    "description": "Join our product team to lead the development of innovative solutions. You'll work closely with engineering, design, and business stakeholders.",
+    "requirements": [
+      "5+ years PM experience",
+      "Technical background",
+      "Agile",
+      "Data analysis",
+      "Strategic thinking"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-Senior"
+  },
+  {
+    "id": 3,
+    "title": "Machine Learning Engineer",
+    "company": "AI Solutions",
+    "location": "Boston, MA (On-site)",
+    "datePosted": "2024-01-28",
+    "salary": "140K - 190K",
+    "description": "Help build our next-generation AI models. You'll be working on cutting-edge machine learning projects and implementing scalable solutions.",
+    "requirements": [
+      "Python",
+      "PyTorch",
+      "ML/AI",
+      "Computer Science degree",
+      "3+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-level"
+  },
+  {
+    "id": 4,
+    "title": "UX/UI Designer",
+    "company": "DesignHub",
+    "location": "Los Angeles, CA (Hybrid)",
+    "datePosted": "2024-01-27",
+    "salary": "90K - 130K",
+    "description": "Join our creative team to design intuitive and visually appealing user interfaces for web and mobile applications.",
+    "requirements": [
+      "Figma",
+      "Adobe Creative Suite",
+      "3+ years experience",
+      "User research",
+      "Prototyping"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-level"
+  },
+  {
+    "id": 5,
+    "title": "DevOps Engineer",
+    "company": "CloudTech",
+    "location": "Seattle, WA (Remote)",
+    "datePosted": "2024-01-26",
+    "salary": "110K - 150K",
+    "description": "Help us build and maintain our cloud infrastructure. You'll be working with cutting-edge technologies to ensure our systems are scalable, secure, and efficient.",
+    "requirements": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "Linux",
+      "4+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-Senior"
+  },
+  {
+    "id": 6,
+    "title": "Full Stack Developer",
+    "company": "WebSolutions",
+    "location": "Austin, TX (On-site)",
+    "datePosted": "2024-01-25",
+    "salary": "100K - 140K",
+    "description": "We're looking for a versatile Full Stack Developer to join our team. You'll work on both frontend and backend development for our web applications.",
+    "requirements": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "RESTful APIs",
+      "3+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-level"
+  },
+  {
+    "id": 7,
+    "title": "Data Scientist",
+    "company": "DataInsights",
+    "location": "Chicago, IL (Hybrid)",
+    "datePosted": "2024-01-24",
+    "salary": "115K - 160K",
+    "description": "Join our data science team to extract valuable insights from large datasets. You'll be using advanced analytics and machine learning techniques to solve complex business problems.",
+    "requirements": [
+      "Python",
+      "R",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "4+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-Senior"
+  },
+  {
+    "id": 8,
+    "title": "Mobile App Developer",
+    "company": "AppWorks",
+    "location": "Miami, FL (Remote)",
+    "datePosted": "2024-01-23",
+    "salary": "95K - 135K",
+    "description": "We're seeking a talented Mobile App Developer to create innovative iOS and Android applications. You'll be working with the latest mobile technologies and frameworks.",
+    "requirements": [
+      "iOS",
+      "Android",
+      "Swift",
+      "Kotlin",
+      "React Native",
+      "3+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-level"
+  },
+  {
+    "id": 9,
+    "title": "Cybersecurity Analyst",
+    "company": "SecureNet",
+    "location": "Washington, D.C. (On-site)",
+    "datePosted": "2024-01-22",
+    "salary": "105K - 145K",
+    "description": "Join our cybersecurity team to protect our organization from digital threats. You'll be responsible for monitoring, detecting, and responding to security incidents.",
+    "requirements": [
+      "Network security",
+      "Penetration testing",
+      "SIEM",
+      "Incident response",
+      "Security certifications",
+      "4+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Mid-Senior"
+  },
+  {
+    "id": 10,
+    "title": "Backend Engineer",
+    "company": "ServerPro",
+    "location": "Denver, CO (Hybrid)",
+    "datePosted": "2024-01-21",
+    "salary": "110K - 150K",
+    "description": "We're looking for a skilled Backend Engineer to develop and maintain our server-side applications. You'll be working with distributed systems and high-performance databases.",
+    "requirements": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "Microservices",
+      "API design",
+      "5+ years experience"
+    ],
+    "type": "Full-time",
+    "experience": "Senior"
+  }
+]
